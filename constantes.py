@@ -1,0 +1,5 @@
+HOST = "localhost"
+PORT = "3306"
+DATABASE = "NetflixDB"
+PASSWORD = "123456789"
+USER = "root"
